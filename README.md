@@ -1,2 +1,2 @@
 # E Commerce-website
-I develop this e commerce website using Java, JSP, jee Hibernate, Spring Framework, HTML, CSS, JS, MySQL
+I develop this website using such technologies like  Java, JSP, jee Hibernate, Spring Framework, HTML, CSS, JavaScript, MySQL
